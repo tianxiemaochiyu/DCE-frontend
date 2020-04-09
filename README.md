@@ -1,2 +1,2 @@
 # DCE-frontend
-A frontend project that React template for Digital Currency Exchange
+A front-end project for digital currency exchange based on the React technology stack
